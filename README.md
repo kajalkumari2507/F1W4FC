@@ -4,6 +4,6 @@
 ### This web page uses "CSS @media Rule".
 ### This page will help us understand the brief and clear use of the "CSS @media Rule".
 
-#### WebPage URL: https://adityapandey1111.github.io/Museum-Website-layout/
+#### WebPage URL: https://kajalkumari2507.github.io/Museum-Website-Layout/
 
 #### This page is a complete front-end based web page, with a nice UI/UX.
